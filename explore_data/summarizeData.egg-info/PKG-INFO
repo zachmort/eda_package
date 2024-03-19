@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: summarizeData
+Version: 1.0
+Summary: A function that summarizes data sets passed through it.
+Author: Zach Mortenson
+Author-email: 
+License: MIT
+Requires-Python: >=3.10
